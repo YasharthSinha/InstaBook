@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Roborto';
+    src: url(./images/Roboto-Regular.ttf) format('tff');
+  }
+*{
+  scrollbar-width: none;
+}
